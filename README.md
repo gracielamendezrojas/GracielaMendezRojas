@@ -1,9 +1,6 @@
 ### Hi, I´m Graciela Méndez 👋
-<html>
+Software Engineer with experience in PL SQL and data analysis, leading backend solutions that streamline business processes.
 
-  <img src ="https://ibb.co/pyz3JS1"/>
-
-</html>
 <!--
 **gracielamendezrojas/GracielaMendezRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
