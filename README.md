@@ -1,8 +1,6 @@
 
 # Hi! I´m Graciela Méndez!
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://ibb.co/pyz3JS1" height="100" /></a>
-<img align="center" src="[https://ibb.co/pyz3JS1](https://ibb.co/pyz3JS1)" height="100" /></a>
-![alt text]([http://url/to/img.png](https://ibb.co/pyz3JS1))
+
 ## 💫 About Me:
 I´m a Software Engineer with experienced in PL SQL and data analysis.
 Passionate about leading work teams and developing business solutions. 
