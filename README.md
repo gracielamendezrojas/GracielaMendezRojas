@@ -1,5 +1,5 @@
 ### Hi, I´m Graciela Méndez 👋
-<img src ="https://ibb.co/M8KTVXR">
+<img src =https://ibb.co/pyz3JS1"/>
 <!--
 **gracielamendezrojas/GracielaMendezRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
